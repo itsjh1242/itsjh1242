@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/JavaScirpt-007396?style=flat-square&logo=JavaScript&logoColor=white" height = '30' width = '90'/>
   </p>
 
-  <br><br><br>
+  <br><br>
 
   <a href = 'https://www.instagram.com/its___jh/'>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
