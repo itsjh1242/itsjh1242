@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
   
   <br><br><br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2300FFCB&title_bg=%2300FF17&icon=instacart.svg&icon_color=%23FFA600&title=hello%2C+world%21&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%2300FFCB&title_bg=%2300FF17&icon=instacart.svg&icon_color=%23FFA600&title=hello%2C+world%21&edge_flat=false"/>  </a>
   </div>
   
   <div align = 'center'>
