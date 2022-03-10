@@ -15,12 +15,10 @@
   
   <br><br><br>
   
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
 </div>
 
   <div align = 'center'>
-    <a href="https://hits.seeyoufarm.com">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svgurl=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%2379C83D&title_bg=%23555555&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
     <a href = 'https://github.com/itsjh1242'>
       <img height = '180em' src = "https://github-readme-stats.vercel.app/api?username=itsjh1242&theme=buefy&show_icons=true"/>
       <img height = '180em' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsjh1242"/>
