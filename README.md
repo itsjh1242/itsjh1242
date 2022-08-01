@@ -1,7 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itsjh's%20Tech&fontSize=90)
   <div align = 'center'>
-  <p> <strong> 🤖 Status: <font color = 'green'>200</font></strong> </p>
-  <p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
+  <p> <strong> 🤖 Status: <font color = 'green'><em>200</em></font></strong> </p>
   <p> <strong> 🛠 Tehcs that I've used at least once 🛠 </strong> <p>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30'/>
