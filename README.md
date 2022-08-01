@@ -1,6 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itsjh's%20Tech&fontSize=90)
   <div align = 'center'>
-  <h1> <strong> 🛠 Tehcs that I've used at least once 🛠 </strong> </h1>
+  <h2> <strong> 🛠 Tehcs that I've used at least once 🛠 </strong> </h2>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30'/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height = '30'/>
