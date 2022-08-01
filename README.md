@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" height = '30'/>
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" height = '30'/>
   </p>
+  <hr>
 
   <br><br>
 
