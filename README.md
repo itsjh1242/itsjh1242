@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30'/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height = '30'/>
     <img src="https://img.shields.io/badge/C-F26822?style=flat-square&logo=C&logoColor=white" height = '30'/>
-    <img src="https://img.shields.io/badge/JavaScirpt-007396?style=flat-square&logo=JavaScript&logoColor=white" height = '30'/>
+    <img src="https://img.shields.io/badge/JavaScirpt-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" height = '30'/>
     <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white" height = '30'/>
   </p>
 
