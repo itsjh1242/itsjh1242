@@ -31,7 +31,7 @@
     <p align = "left" style="display: inline-block;">
       <img src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
     </p>
-    <li style="display: inline-block;">
+    <li style="display: inline;">
       d
     </li>
   </ul>
