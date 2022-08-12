@@ -32,5 +32,6 @@
       <img src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/> 
     </p>
     <li>
+      d
     </li>
   </ul>
