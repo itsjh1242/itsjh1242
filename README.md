@@ -1,7 +1,7 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itsjh's%20Tech&fontSize=90)
   <div align = 'center'>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233D8CC8&title_bg=%23B2B2B2&icon=freebsd.svg&icon_color=%23FF0000&title=WELCOME+DUDE&edge_flat=true"/></a>
-  <p> <strong> 🛠  </strong> <p>
+  <p> <strong> 🛠 WITH </strong> <p>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30'/>
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" height = '30'/>
