@@ -29,7 +29,9 @@
   <ul>
     <h1> ❷⓿❷❷ </h1>
     <li>
-      <h2><strong> Reddot Award </strong></h2>
+      <center>
+        <strong> Reddot Award </strong>
+      </center>
     </li>
     <p align = "left">
       <h3> <strong> Touchable Hair Catalog For Blind : 🎉Best Of The Best</strong> </h3>
