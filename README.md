@@ -29,7 +29,7 @@
   <ul>
     <h2> 2022 </h2>
     <p align = "left">
-      <img src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
+      <img src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/> d
     </p>
     <li>
     </li>
