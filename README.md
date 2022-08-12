@@ -14,8 +14,10 @@
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" height = '30'/>
   </p>
   <hr>
-  <a href = 'https://www.instagram.com/its___jh/'>
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
+  <div>
+    <a href = 'https://www.instagram.com/its___jh/'>
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
+  </div>
   
   <a href = 'https://github.com/itsjh1242'>
       <img height = '180em' src = "https://github-readme-stats.vercel.app/api?username=itsjh1242&theme=buefy&show_icons=true"/>
