@@ -28,11 +28,11 @@
   <h1> <strong> 🔥Achievement | Award </strong></h1>
   <ul>
     <h2> 2022 </h2>
-    <p align = "left" style="display: inline;">
+    <p align = "left">
       <img style="display: inline-block;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
-      dd
+      <p style="display: inline-block;"> dd </p>
     </p>
-    <li style="display: inline;">
+    <li>
       d
     </li>
   </ul>
