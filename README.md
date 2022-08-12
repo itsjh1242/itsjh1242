@@ -29,9 +29,8 @@
   <ul>
     <h2> 2022 </h2>
     <p align = "left">
-      <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
-      <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
-      <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
+      <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="400" height="200"/>
+      <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="400" height="200"/>
     </p>
     <h3> <strong> Touchable Hair Catalog For Blind : 🎉Best Of The Best</strong> </h3>
   </ul>
