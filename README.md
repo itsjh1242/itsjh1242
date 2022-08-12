@@ -25,6 +25,6 @@
   
   <hr>
   </div>
-  <h2> <strong>🔥achievement</strong></h2>
+  <h1> <strong> 🔥Achievement | Award </strong></h1>
   <ul>
   </ul>
