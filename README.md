@@ -1,5 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itsjh's%20Tech&fontSize=90)
   <div align = 'center'>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%2300FFCB&title_bg=%2300FF17&icon=instacart.svg&icon_color=%23FFA600&title=hello%2C+world%21&edge_flat=false"/>  </a>
   <p> <strong> 🤖 Status: <font color = 'green'><em>200</em></font></strong> </p>
   <p> <strong> 🛠 Tehcs that I've used at least once 🛠 </strong> <p>
   <p>
@@ -20,8 +21,7 @@
   <a href = 'https://www.instagram.com/its___jh/'>
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
   
-  <br><br><br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%2300FFCB&title_bg=%2300FF17&icon=instacart.svg&icon_color=%23FFA600&title=hello%2C+world%21&edge_flat=false"/>  </a>
+  
   </div>
   
   <div align = 'center'>
