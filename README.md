@@ -27,7 +27,7 @@
   </div>
   <h1> <strong> 🔥Achievement | Award </strong></h1>
   <ul>
-    <h2> ❷⓿❷❷ </h2>
+    <h1> ❷⓿❷❷ </h1>
     <li>
       <h2><strong> Reddot Award </strong></h2>
     </li>
