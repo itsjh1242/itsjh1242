@@ -29,7 +29,7 @@
   <ul>
     <h2> 2022 </h2>
     <p align = "center">
-      <img src="https://github.com/itsjh1242/Node.js/blob/main/img/node.js.png" width="300" height="200"/>
+      <img src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
     </p>
     <li>
     </li>
