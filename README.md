@@ -30,6 +30,7 @@
     <h2> 2022 </h2>
     <p align = "left" style="display: inline;">
       <img style="display: inline-block;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="300" height="200"/>
+      dd
     </p>
     <li style="display: inline;">
       d
