@@ -1,6 +1,6 @@
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itsjh's%20Tech&fontSize=90)
   <div align = 'center'>
-  <a style="width: 200px;" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233D8CC8&title_bg=%23B2B2B2&icon=freebsd.svg&icon_color=%23FF0000&title=WELCOME+DUDE&edge_flat=true"/></a>
+  <a style="width: 200px; height: 60px;" href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233D8CC8&title_bg=%23B2B2B2&icon=freebsd.svg&icon_color=%23FF0000&title=WELCOME+DUDE&edge_flat=true"/></a>
   <p> <strong> 🤖 Status: <font color = 'green'><em>200</em></font></strong> </p>
   <p> <strong> 🛠 Tehcs that I've used at least once 🛠 </strong> <p>
   <p>
