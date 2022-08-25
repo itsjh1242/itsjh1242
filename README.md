@@ -39,5 +39,8 @@
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_sub.jpeg" width="850" height="450"/>
       </p>
     </div>
+    <div>
+      🌀 role in the team
+    </div>
     
   </ul>
