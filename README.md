@@ -44,7 +44,6 @@
       <ul>
         <li>✔ Make Catalog</li>
         <li>✔ Introduction video components</li>
-        <li>✔ Introduction video components</li>
         <li>✔ Panel Design Idea </li>
       </ul>
     </div>
