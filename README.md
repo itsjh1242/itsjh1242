@@ -35,7 +35,8 @@
       <p align = "left">
         <h3> <strong> Touchable Hair Catalog For Blind : 🎉Best Of The Best</strong> </h3>
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="400" height="200"/>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="400" height="200"/>
+        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_main.jpeg" width="400" height="200"/>
+        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_sub.jpeg" width="400" height="200"/>
       </p>
     </div>
     
