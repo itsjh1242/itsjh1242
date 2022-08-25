@@ -40,8 +40,10 @@
       </p>
     </div>
     <div>
-      <ul><h3><strong> 🌀 role in the team  </strong></h3></ul>
-      <li>Make Catalog</li>
-      <li>Make Catalog</li>
+      <ul>
+        <h3><strong> 🌀 role in the team  </strong></h3>
+        <li>Make Catalog</li>
+        <li>Make Catalog</li>
+      </ul>
     </div>
   </ul>
