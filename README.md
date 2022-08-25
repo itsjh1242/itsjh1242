@@ -40,8 +40,12 @@
       </p>
     </div>
     <div>
-      <li><h3><strong> 🌀 role in the team  </strong></h3></li>
-      <li>Make Catalog</li>
-      <li>Make Catalog</li>
+      <li><h3><strong> role in the team  </strong></h3></li>
+      <ul>
+        <li>✔ Make Catalog</li>
+        <li>✔ Introduction video components</li>
+        <li>✔ Introduction video components</li>
+        <li>✔ Panel Design Idea </li>
+      </ul>
     </div>
   </ul>
