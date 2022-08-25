@@ -40,7 +40,7 @@
       </p>
     </div>
     <div>
-      🌀 role in the team
+      <h3><strong> 🌀 role in the team  </strong></h3>
     </div>
     
   </ul>
