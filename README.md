@@ -40,7 +40,6 @@
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="600" height="200"/>
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_main.jpeg" width="850" height="450"/>
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_sub.jpeg" width="850" height="450"/>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/berlin01.jpeg" width="700" height="800"/>
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/berlin02.jpeg" width="700" height="450"/>
         <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/berlin03.jpeg" width="700" height="800"/>
       </p>
