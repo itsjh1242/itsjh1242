@@ -18,6 +18,8 @@
   <div>
     <a href = 'https://www.instagram.com/its___jh/'>
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
+    <a href = 'https://mail.kakao.com/'>
+      <img src="https://img.shields.io/badge/itsjh@kakao.com-E4405F?style=flat-square&logo=kakao&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
   </div>
   
   <a href = 'https://github.com/itsjh1242'>
