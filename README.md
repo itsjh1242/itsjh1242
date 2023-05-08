@@ -50,4 +50,19 @@
         <li>✔ Panel Design Idea </li>
       </ul>
     </div>
+    <div>
+      <li><h3><strong>Difficulty in Project </strong></h3></li>
+      <ul>
+        <li>✔ Communication with team: all of my team member are majoring different department.</li>
+        <li>✔ so we suggested different opinion each other.</li>
+      </ul>
+    </div>
+    <div>
+      <li><h3><strong>How did we overcome? </strong></h3></li>
+      <ul>
+        <li>✔ All we need is to keep converstation even if we studied different subjects</li>
+        <li>✔ make rules and do what i do well, and keep give an opinion using my major</li>
+        <li>✔ Think Positive</li>
+      </ul>
+    </div>
   </ul>
