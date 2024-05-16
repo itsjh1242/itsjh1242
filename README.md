@@ -1,6 +1,5 @@
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=itsjh's%20Tech&fontSize=90)
   <div align = 'center'>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233D8CC8&title_bg=%23B2B2B2&icon=freebsd.svg&icon_color=%23FF0000&title=WELCOME+DUDE&edge_flat=true"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233D8CC8&title_bg=%23B2B2B2&icon=freebsd.svg&icon_color=%23FF0000&title=VISITOR&edge_flat=true"/></a>
   <p> <strong> 🛠 WITH </strong> <p>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30'/>
@@ -15,56 +14,4 @@
     <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white" height = '30'/>
   </p>
   <hr>
-  <div>
-    <a href = 'https://www.instagram.com/its___jh/'>
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
-    <a href = 'https://mail.kakao.com/'>
-      <img src="https://img.shields.io/badge/itsjh@kakao.com-F7DF1E?style=flat-square&logo=kakao&logoColor=white&link=https://www.instagram.com/its___jh/" height = '30' width = '130'/></a>&nbsp
   </div>
-  
-  <a href = 'https://github.com/itsjh1242'>
-      <img height = '180em' src = "https://github-readme-stats.vercel.app/api?username=itsjh1242&theme=buefy&show_icons=true"/>
-      <img height = '180em' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=itsjh1242"/>
-  
-  <hr>
-  </div>
-  <h1> <strong> 🔥Achievement | Award </strong></h1>
-  <ul>
-    <h1> ❷⓿❷❷ </h1>
-    <li>
-      <h3><strong> Reddot Award </strong></h3>
-    </li>
-    <div align = "center"> 
-      <p align = "left">
-        <h3> <strong> Touchable Hair Catalog For Blind : 🎉Best Of The Best</strong> </h3>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/reddot2022.png" width="600" height="200"/>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_main.jpeg" width="850" height="450"/>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/catalog_sub.jpeg" width="850" height="450"/>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/berlin02.jpeg" width="700" height="450"/>
-        <img style="float: left;" src="https://github.com/itsjh1242/itsjh1242/blob/main/src/img/berlin03.jpeg" width="700" height="800"/>
-      </p>
-    </div>
-    <div>
-      <li><h3><strong> role in the team  </strong></h3></li>
-      <ul>
-        <li>✔ Make Catalog</li>
-        <li>✔ Introduction video components</li>
-        <li>✔ Panel Design Idea </li>
-      </ul>
-    </div>
-    <div>
-      <li><h3><strong>Difficulty in Project </strong></h3></li>
-      <ul>
-        <li>✔ Communication with team: all of my team member are majoring different department.</li>
-        <li>✔ so we suggested different opinion each other.</li>
-      </ul>
-    </div>
-    <div>
-      <li><h3><strong>How did we overcome? </strong></h3></li>
-      <ul>
-        <li>✔ All we need is to keep converstation even if we studied different subjects</li>
-        <li>✔ make rules and do what i do well, and keep give an opinion using my major</li>
-        <li>✔ Think Positive</li>
-      </ul>
-    </div>
-  </ul>
