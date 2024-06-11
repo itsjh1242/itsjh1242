@@ -12,12 +12,15 @@
       </div>
       <img src="https://github.com/itsjh1242/itsjh1242/blob/431c52998c2923de6c9305fe4d7e788e2f3ce964/src/img/readme_portfolio.png" alt="portfolio" />
       <h1>Technologies</h1>
-      | Technology Icon | Technology Name | |
+      | Technology Icon | Technology Name | URL | |
       :---------------------------------------------------------------------------------------------------------------------------: | :-------------: |
       ------------------------------------------------------------------------------------------------------- | |
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" /> | HTTP | |
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" /> | websocket | |
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192107855-e669c777-9172-49c5-b7e0-404e29df0fee.png" /> | gRPC | |
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" /> | GraphQL | |
-      <img height="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" /> | REST | |
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" /> | Git |
+      `https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png` | |
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" /> | GitHub |
+      `https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png` | |
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" /> | GitLab |
+      `https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png` | |
+      <img height="50" src="https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png" /> | Bitbucket |
+      `https://user-images.githubusercontent.com/25181517/192108375-268c35e6-ab26-44b2-88bf-e3121a4e5083.png` |
     </div>
