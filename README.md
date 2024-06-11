@@ -14,11 +14,11 @@
       <h1>Technologies</h1>
       <div align="center">
         <table style="text-align: center; border-spacing: 5px 2rem">
-          <thead>
+          <thead align="center">
             <th>Tech</th>
             <th>Usability</th>
           </thead>
-          <tbody style="text-align: center">
+          <tbody align="center">
             <tr>
               <td>
                 <img
