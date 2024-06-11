@@ -24,9 +24,7 @@
                   alt="GitHub"
                   title="GitHub"
                 />
-                <code
-                ><p>Github</p></code
-              >
+                <code>Github</code>
             </td>
             <td style="font-size: 24px">😎</td>
           </tr>
