@@ -6,7 +6,12 @@
       <h1>Hi there 👋</h1>
       <hr />
       <div>
-        <h3>포트폴리오 웹 사이트</h3>
+        <div>
+          <h3>포트폴리오 웹 사이트</h3>
+          <button style="border: none; padding: 8px; margin-bottom: 8px; background-color: black; box-shadow: 0px 4px 4px gray">
+            <a href="https://itsjh1242.github.io/portfolio/" style="color: white; text-decoration: none">보러가기</a>
+          </button>
+        </div>
         <img src="https://github.com/itsjh1242/itsjh1242/blob/431c52998c2923de6c9305fe4d7e788e2f3ce964/src/img/readme_portfolio.png" alt="portfolio" />
       </div>
       <div class="flex">
