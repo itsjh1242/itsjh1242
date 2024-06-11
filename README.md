@@ -14,56 +14,60 @@
       <h1>Technologies</h1>
       <div align="center">
         <table style="text-align: center; border-spacing: 5px 2rem">
-          <th>Tech</th>
-          <th>Usability</th>
-          <tr>
-            <td>
-              <img
-                width="50"
-                src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
-                alt="React"
-                title="React"
-              />
-              <div><code>React</code></div>
-            </td>
-            <td style="font-size: 36px">😎</td>
-          </tr>
-          <tr>
-            <td>
-              <img
-                width="50"
-                src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"
-                alt="Next.js"
-                title="Next.js"
-              />
-              <div><code>Next.js</code></div>
-            </td>
-            <td style="font-size: 36px">😎</td>
-          </tr>
-          <tr>
-            <td>
-              <img
-                width="50"
-                src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
-                alt="Node.js"
-                title="Node.js"
-              />
-              <div><code>Node.js</code></div>
-            </td>
-            <td style="font-size: 36px">😎</td>
-          </tr>
-          <tr>
-            <td>
-              <img
-                width="50"
-                src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"
-                alt="TypeScript"
-                title="TypeScript"
-              />
-              <div><code>TypeScript</code></div>
-            </td>
-            <td style="font-size: 36px">😎</td>
-          </tr>
+          <thead>
+            <th>Tech</th>
+            <th>Usability</th>
+          </thead>
+          <tbody style="text-align: center">
+            <tr>
+              <td>
+                <img
+                  width="50"
+                  src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
+                  alt="React"
+                  title="React"
+                />
+                <div><code>React</code></div>
+              </td>
+              <td style="font-size: 36px">😎</td>
+            </tr>
+            <tr>
+              <td>
+                <img
+                  width="50"
+                  src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"
+                  alt="Next.js"
+                  title="Next.js"
+                />
+                <div><code>Next.js</code></div>
+              </td>
+              <td style="font-size: 36px">😎</td>
+            </tr>
+            <tr>
+              <td>
+                <img
+                  width="50"
+                  src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
+                  alt="Node.js"
+                  title="Node.js"
+                />
+                <div><code>Node.js</code></div>
+              </td>
+              <td style="font-size: 36px">😎</td>
+            </tr>
+            <tr>
+              <td>
+                <img
+                  width="50"
+                  src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"
+                  alt="TypeScript"
+                  title="TypeScript"
+                />
+                <div><code>TypeScript</code></div>
+              </td>
+              <td style="font-size: 36px">😎</td>
+            </tr>
+          </tbody>
         </table>
       </div>
     </div>
