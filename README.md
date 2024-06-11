@@ -1,5 +1,5 @@
   <div align = 'center'>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233D8CC8&title_bg=%23B2B2B2&icon=freebsd.svg&icon_color=%23FF0000&title=VISITOR&edge_flat=true"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fitsjh1242&count_bg=%233073CA&title_bg=%2336BE32&icon=hey.svg&icon_color=%23000000&title=hi+again%3F&edge_flat=false"/></a>
   <p> <strong> 🛠 WITH </strong> <p>
   <p>
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white" height = '30'/>
