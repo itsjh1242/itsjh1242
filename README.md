@@ -29,7 +29,7 @@
                 />
                 <div><code>React</code></div>
               </td>
-              <td style="font-size: 36px">😎</td>
+              <td><p style="font-size: 36px">😎</p></td>
             </tr>
             <tr>
               <td>
@@ -41,7 +41,7 @@
                 />
                 <div><code>Next.js</code></div>
               </td>
-              <td style="font-size: 36px">😎</td>
+              <td><p style="font-size: 36px">😎</p></td>
             </tr>
             <tr>
               <td>
@@ -53,7 +53,7 @@
                 />
                 <div><code>Node.js</code></div>
               </td>
-              <td style="font-size: 36px">😎</td>
+              <td><p style="font-size: 36px">😎</p></td>
             </tr>
             <tr>
               <td>
@@ -65,7 +65,7 @@
                 />
                 <div><code>TypeScript</code></div>
               </td>
-              <td style="font-size: 36px">😎</td>
+              <td><p style="font-size: 36px">😎</p></td>
             </tr>
           </tbody>
         </table>
