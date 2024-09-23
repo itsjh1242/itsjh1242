@@ -1,5 +1,5 @@
 
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1687735546/66769/smart.gif?1687735546" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1643514890/9034/keanu_thanks.gif?1643514890" width="30"/> Hey! Nice to see you.</h1>
 
 <p><b>Welcome to my github!</b></br> I'm Junhyeon, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Busan, Korea</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197582.png" width="13"/> <b>Dae-Jeon, Korea</b>.</p>
 
