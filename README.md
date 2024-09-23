@@ -5,7 +5,7 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/itsjh1242?label=follow&style=social)](https://github.com/itsjh1242)
 
-<h3>Things I code with</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1643514545/5432/this-is-fine.gif?1643514545" width="30" /> Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
