@@ -39,4 +39,4 @@
   <img alt="tailwindcss" src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
   
 </p>
-<img src="https://github.com/itsjh1242/itsjh1242/blob/22bb7a21102b4afb22df6159b3ab232a17f750f2/src/img/m1.jpeg" width="400" align="left" />
+<img src="https://github.com/itsjh1242/itsjh1242/blob/64dcc505b618439e734373ce7cc8dd453d0416f5/src/img/survival_tip_that_programmers_dont_want_you_to_know.jpg" width="100%" align="left" />
