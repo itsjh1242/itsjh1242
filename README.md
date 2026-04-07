@@ -12,10 +12,7 @@
 
 ---
 
-## 👋 Say Hello / 인사
-
-### Hello there. / 안녕하세요.
-
+## 👋 Hello there. / 안녕하세요.
 <p>
   Curious who I am and what I build?<br/>
 </p>
