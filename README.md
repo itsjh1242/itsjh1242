@@ -1,34 +1,6 @@
 <div align="center">
 
-### ⚡️ `build fast, ship clean, vibe high`
-
-<p>
-  <a href="https://github.com/itsjh1242"><img src="https://img.shields.io/github/followers/itsjh1242?style=for-the-badge&label=FOLLOWS&color=7F5AF0&labelColor=0f172a" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/BASED_IN-KR-111827?style=for-the-badge&logo=googlemaps&logoColor=22d3ee" alt="based in kr" />
-  <img src="https://img.shields.io/badge/STATUS-always%20shipping-111827?style=for-the-badge&logo=rocket&logoColor=fde047" alt="status" />
-</p>
-
-</div>
-
----
-
-## 👋 Hello there. / 안녕하세요.
-<p>
-  Curious who I am and what I build?<br/>
-</p>
-
-<p>
-  <a href="https://jundev-site.vercel.app" target="_blank">
-    🔗 Portfolio : https://jundev-site.vercel.app
-  </a>
-</p>
-
-> If you're curious, jump in.  
-> 궁금하면 바로 들어와 보세요.
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend / Mobile
 
