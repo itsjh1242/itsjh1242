@@ -45,11 +45,4 @@
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsjh1242&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsjh1242&layout=compact&theme=default&hide_border=true)
-
-### Gallery
-
 <img src="assets/gallery/collage.jpg" width="100%" />
